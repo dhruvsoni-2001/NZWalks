@@ -12,6 +12,7 @@ namespace NZWalks.API.Repositories
         {
             this.dbContext = dbContext;
         }
+
         public async Task<Region> CreateAsync(Region region)
         {
             await dbContext.Regions.AddAsync(region);
@@ -23,7 +24,7 @@ namespace NZWalks.API.Repositories
         {
             var existingRegion = await dbContext.Regions.FirstOrDefaultAsync(x => x.Id == id);
 
-            if (existingRegion != null)
+            if (existingRegion == null)
             {
                 return null;
             }
