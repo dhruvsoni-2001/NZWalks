@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rPlg6tadYlS0QIz8iUh2WsQYfxl8CT9+0dDNvuw29xYsCupEWm9NULBmQ/HXawNf6oJeOWJxVqaenZ9ToHCZjg==",
+  "dgSpecHash": "Z98cEsTljThFZEkGnG5BQPG2YGGEBtpEvNRNwSX64HQtd2KTyWRDCmooquj+OUyvwdoOwnSWaCGvoKKi0dIxqA==",
   "success": true,
   "projectFilePath": "D:\\DotNet Projects\\repos\\NZWalks\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
   "expectedPackageFiles": [
@@ -66,7 +66,7 @@
     "C:\\Users\\Dhruv Soni\\.nuget\\packages\\serilog.extensions.logging\\7.0.0\\serilog.extensions.logging.7.0.0.nupkg.sha512",
     "C:\\Users\\Dhruv Soni\\.nuget\\packages\\serilog.formatting.compact\\1.1.0\\serilog.formatting.compact.1.1.0.nupkg.sha512",
     "C:\\Users\\Dhruv Soni\\.nuget\\packages\\serilog.settings.configuration\\7.0.0\\serilog.settings.configuration.7.0.0.nupkg.sha512",
-    "C:\\Users\\Dhruv Soni\\.nuget\\packages\\serilog.sinks.console\\4.0.1\\serilog.sinks.console.4.0.1.nupkg.sha512",
+    "C:\\Users\\Dhruv Soni\\.nuget\\packages\\serilog.sinks.console\\4.1.0\\serilog.sinks.console.4.1.0.nupkg.sha512",
     "C:\\Users\\Dhruv Soni\\.nuget\\packages\\serilog.sinks.debug\\2.0.0\\serilog.sinks.debug.2.0.0.nupkg.sha512",
     "C:\\Users\\Dhruv Soni\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
     "C:\\Users\\Dhruv Soni\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",

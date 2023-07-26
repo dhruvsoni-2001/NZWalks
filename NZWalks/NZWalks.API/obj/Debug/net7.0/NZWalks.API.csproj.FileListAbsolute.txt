@@ -90,3 +90,12 @@ D:\DotNet Projects\repos\NZWalks\NZWalks\NZWalks.API\bin\Debug\net7.0\System.Web
 D:\DotNet Projects\repos\NZWalks\NZWalks\NZWalks.API\bin\Debug\net7.0\System.Web.WebPages.Razor.dll
 D:\DotNet Projects\repos\NZWalks\NZWalks\NZWalks.API\bin\Debug\net7.0\System.Web.WebPages.dll
 D:\DotNet Projects\repos\NZWalks\NZWalks\NZWalks.API\bin\Debug\net7.0\Microsoft.Web.Infrastructure.dll
+D:\DotNet Projects\repos\NZWalks\NZWalks\NZWalks.API\bin\Debug\net7.0\Serilog.dll
+D:\DotNet Projects\repos\NZWalks\NZWalks\NZWalks.API\bin\Debug\net7.0\Serilog.AspNetCore.dll
+D:\DotNet Projects\repos\NZWalks\NZWalks\NZWalks.API\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+D:\DotNet Projects\repos\NZWalks\NZWalks\NZWalks.API\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+D:\DotNet Projects\repos\NZWalks\NZWalks\NZWalks.API\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+D:\DotNet Projects\repos\NZWalks\NZWalks\NZWalks.API\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+D:\DotNet Projects\repos\NZWalks\NZWalks\NZWalks.API\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+D:\DotNet Projects\repos\NZWalks\NZWalks\NZWalks.API\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+D:\DotNet Projects\repos\NZWalks\NZWalks\NZWalks.API\bin\Debug\net7.0\Serilog.Sinks.File.dll
